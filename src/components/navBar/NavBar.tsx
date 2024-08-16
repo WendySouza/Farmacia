@@ -5,17 +5,26 @@ function NavBar() {
     <div className="text-lg font-bold p-4">
       <ul className="flex gap-4">
         <li>
-          <Link to="/" className="text-white hover:text-sky-300 hover:underline">
+          <Link
+            to="/"
+            className="text-white hover:text-sky-300 hover:underline"
+          >
             Home
           </Link>
         </li>
         <li>
-          <Link to="/products" className="text-white hover:text-sky-300 hover:underline">
+          <Link
+            to="/produtos"
+            className="text-white hover:text-sky-300 hover:underline"
+          >
             Produtos
           </Link>
         </li>
         <li>
-          <Link to="/categories" className="text-white hover:text-sky-300 hover:text- hover:underline">
+          <Link
+            to="/categorias"
+            className="text-white hover:text-sky-300 hover:text- hover:underline"
+          >
             Categorias
           </Link>
         </li>

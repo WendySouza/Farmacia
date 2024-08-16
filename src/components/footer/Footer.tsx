@@ -7,9 +7,11 @@ import {
 
 function Footer() {
   return (
+
+    
     <div className="bg-sky-950">
       <div className="text-white p-4 text-center">
-        &copy; 2024 Farmácia Generation. Todos os direitos reservados.
+        &copy; 2024 FarmaGe. Todos os direitos reservados.
       </div>
       <p className="text-white p-2 text-center">Acesse nossas redes sociais</p>
       <div className="flex justify-center gap-2 pb-2">
@@ -18,6 +20,7 @@ function Footer() {
         <FacebookLogo size={38} weight="bold" color="white" />
       </div>
     </div>
+    
   );
 }
 
