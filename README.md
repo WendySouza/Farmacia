@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Farmacia-Frontend</h1>
 <br/>
 <p align="center">Este projeto é a aplicação front-end para uma farmácia, desenvolvida utilizando React.</p>
@@ -12,7 +11,7 @@
 • React Router DOM<br/>
 • Vite<br/>
 </div>
-=======
+<br/><br/><br/><br/>
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
